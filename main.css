@@ -1,5 +1,5 @@
 body {
-  background-color: #bef1f1;
+background-color: #f3f3f3;
 }
 
 footer {
@@ -12,9 +12,11 @@ h1 {
 }
 
 header {
-  background-color: #000;
-  margin: 0 auto;
-}
+  background-color: #ff7829;
+  font-size: 40px;
+  padding: 100px;
+  text-align: center;
+  }
 
 .headings {
   color: #175b5f;
