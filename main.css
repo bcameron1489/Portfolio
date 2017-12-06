@@ -1,7 +1,12 @@
 body {
-  background: #000;
+  background: #bef1f1
 }
 
 h1 {
-  color: #FF2734;
+  color: #175b5f;
+}
+
+header {
+  height: 15%;
+  background: #000;
 }
