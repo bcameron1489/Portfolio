@@ -5,6 +5,7 @@ background-color: #f3f3f3;
 footer {
   bottom: 2px;
   padding-bottom: 50px;
+  text-align: center;
 }
 
 h1 {
@@ -22,6 +23,10 @@ header {
 .headings {
   color: #175b5f;
   text-align: center;
+}
+
+ul {
+
 }
 
 .row {
