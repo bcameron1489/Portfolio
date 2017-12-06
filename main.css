@@ -2,11 +2,25 @@ body {
   background-color: #bef1f1;
 }
 
+footer {
+  height: 10%;
+}
+
 h1 {
   color: #175b5f;
+  text-align: center;
 }
 
 header {
   background-color: #000;
+  height: 15%;
+}
+
+.headings {
+  color: #175b5f;
+  text-align: center;
+}
+
+.row {
   height: 15%;
 }
