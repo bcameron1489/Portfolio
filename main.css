@@ -13,7 +13,7 @@ h1 {
 
 header {
   background-color: #000;
-  height: 15%;
+  margin: 0 auto;
 }
 
 .headings {
@@ -22,5 +22,12 @@ header {
 }
 
 .row {
-  height: 15%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.row-odd {
+  float: left;
+  width: 49%;
 }
