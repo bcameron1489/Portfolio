@@ -3,7 +3,8 @@ background-color: #f3f3f3;
 }
 
 footer {
-  height: 10%;
+  bottom: 2px;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -24,9 +25,8 @@ header {
 }
 
 .row {
-  margin: 0 auto;
-  margin-bottom: 20px;
-  padding: 20px;
+  margin-right: 50px;
+  padding: 120px;
 }
 
 .row-odd {
