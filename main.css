@@ -2,12 +2,6 @@ body {
 background-color: #f3f3f3;
 }
 
-footer {
-  bottom: 2px;
-  padding-bottom: 50px;
-  text-align: center;
-}
-
 h1 {
   color: #175b5f;
   text-align: center;
@@ -32,6 +26,12 @@ header {
 
 .row-odd {
   float: left;
+  margin-left: 0;
+  padding-left: 0;
+  width: 49%;
+}
+
+.row-odd {
   margin-left: 0;
   padding-left: 0;
   width: 49%;
