@@ -31,5 +31,7 @@ header {
 
 .row-odd {
   float: left;
+  margin-left: 0;
+  padding-left: 0;
   width: 49%;
 }
