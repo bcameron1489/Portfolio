@@ -1,5 +1,5 @@
 body {
-  background: #bef1f1
+  background-color: #bef1f1;
 }
 
 h1 {
@@ -7,6 +7,6 @@ h1 {
 }
 
 header {
-  background: #000;
+  background-color: #000;
   height: 15%;
 }
