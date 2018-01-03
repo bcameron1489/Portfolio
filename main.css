@@ -1,38 +1,7 @@
 body {
-background-color: #f3f3f3;
+  background: #000;
 }
 
 h1 {
-  color: #175b5f;
-  text-align: center;
-}
-
-header {
-  background-color: #ff7829;
-  font-size: 40px;
-  padding: 100px;
-  text-align: center;
-  }
-
-.headings {
-  color: #175b5f;
-  text-align: center;
-}
-
-.row {
-  margin-right: 50px;
-  padding: 120px;
-}
-
-.row-odd {
-  float: left;
-  margin-left: 0;
-  padding-left: 0;
-  width: 49%;
-}
-
-.row-odd {
-  margin-left: 0;
-  padding-left: 0;
-  width: 49%;
+  color: #FF2734;
 }
