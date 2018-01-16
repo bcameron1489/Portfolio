@@ -6,6 +6,9 @@ h1 {
   color: #00dcff;
 }
 
+.my-image {
+  border-radius: 50%;
+}
 /*.tic-image {
   text-align: center;
 }*/
